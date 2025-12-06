@@ -11,7 +11,7 @@ import Adddoctor from './Pages/admin/Adddoctor'
 import Doctorlist from './Pages/admin/Doctorlist'
 import Doctordashboard from './Pages/doctor/Doctordashboard'
 import Doctorprofile from './Pages/doctor/Doctorprofile'
-import DoctorAppointment from './Pages/doctor/doctorAppointment'
+import DoctorAppointment from './Pages/doctor/Doctorappointment'
 
 
 
