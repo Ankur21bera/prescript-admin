@@ -19,7 +19,7 @@ import {
 import { assets } from "../../assets/assets";
 import toast from "react-hot-toast";
 
-const doctorAppointment = () => {
+const DoctorAppointment = () => {
   const dispatch = useDispatch();
 
   const { appointments, token, loading, error } = useSelector(
@@ -231,4 +231,4 @@ const doctorAppointment = () => {
   );
 };
 
-export default doctorAppointment;
+export default DoctorAppointment;
